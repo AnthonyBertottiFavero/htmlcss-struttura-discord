@@ -1,0 +1,45 @@
+.nav-heading .container {
+    background-color: gold;
+}
+
+.jumbo {
+    background-color: blue;
+    /* height: 200px; */
+}
+
+.jumbo .content {
+    background-color: pink;
+    min-height: 250px; /* modificato con correzione */ 
+}
+
+.section-first .image {
+    background-color: aqua;
+    min-height: 250px; /* modificato con correzione */
+}
+
+.section-first .text {
+    background-color: salmon;
+    min-height: 250px; /* modificato con correzione */
+}
+
+.section-second .container {
+    background-color: green;
+    min-height: 350px; /* modificato con correzione */
+}
+
+footer .footer-column {
+    min-height: 300px; /* modificato con correzione */
+}
+
+footer .column-socials {
+    background-color: pink;
+}
+
+footer .column-links {
+   background-color: darkviolet;
+   border: 2px solid white;
+}
+
+footer .footer-bottom {
+    background-color: yellow; /* modificato con correzione */
+}
